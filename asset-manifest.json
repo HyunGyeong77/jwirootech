@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jwirootech/static/css/main.81fe71d1.css",
+    "main.js": "/jwirootech/static/js/main.e970825f.js",
+    "static/js/453.4c4e522d.chunk.js": "/jwirootech/static/js/453.4c4e522d.chunk.js",
+    "index.html": "/jwirootech/index.html",
+    "main.81fe71d1.css.map": "/jwirootech/static/css/main.81fe71d1.css.map",
+    "main.e970825f.js.map": "/jwirootech/static/js/main.e970825f.js.map",
+    "453.4c4e522d.chunk.js.map": "/jwirootech/static/js/453.4c4e522d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81fe71d1.css",
+    "static/js/main.e970825f.js"
+  ]
+}
