@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jwirootech/static/css/main.d41ad957.css",
-    "main.js": "/jwirootech/static/js/main.2e2de709.js",
+    "main.css": "/jwirootech/static/css/main.6321dda3.css",
+    "main.js": "/jwirootech/static/js/main.dd935533.js",
     "static/js/453.4c4e522d.chunk.js": "/jwirootech/static/js/453.4c4e522d.chunk.js",
     "index.html": "/jwirootech/index.html",
-    "main.d41ad957.css.map": "/jwirootech/static/css/main.d41ad957.css.map",
-    "main.2e2de709.js.map": "/jwirootech/static/js/main.2e2de709.js.map",
+    "main.6321dda3.css.map": "/jwirootech/static/css/main.6321dda3.css.map",
+    "main.dd935533.js.map": "/jwirootech/static/js/main.dd935533.js.map",
     "453.4c4e522d.chunk.js.map": "/jwirootech/static/js/453.4c4e522d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d41ad957.css",
-    "static/js/main.2e2de709.js"
+    "static/css/main.6321dda3.css",
+    "static/js/main.dd935533.js"
   ]
 }
